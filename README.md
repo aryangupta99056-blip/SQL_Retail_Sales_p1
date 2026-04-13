@@ -61,7 +61,7 @@ WHERE rank = 1;
 ## Project Files
 
 * `SQL - Retail Sales Analysis utf.csv` → dataset
-* `SQL_PROJECT 10.sql` → all SQL queries
+* `SQL_PROJECT 1(p1).sql` → all SQL queries
 * `README.md` → project explanation
 
 ---
